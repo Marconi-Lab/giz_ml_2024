@@ -1,5 +1,5 @@
 # GIZ AI SKills: Introduction to Machine Practicals 
-Code and resources for HASH AI in Healthcare training session 27.7.2023
+Code and resources for HASH AI in Healthcare training session 20.2.2024
 
 ## Part I: Tabular Data Classification
 [![Open In 
