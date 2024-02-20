@@ -1,7 +1,7 @@
 # GIZ AI SKills: Introduction to Machine Practicals 
 Code and resources for HASH AI in Healthcare training session 27.7.2023
 
-## Part I: Tabular Data 
+## Part I: Tabular Data Classification
 [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bvD7FewtTp2XIFsyfjFujlBYj_2lVcbo?usp=sharing)
 <!--
