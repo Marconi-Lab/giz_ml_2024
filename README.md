@@ -1,4 +1,4 @@
-# HASH Developing AI for Healthcare 2023
+# GIZ AI SKills: Introduction to Machine Practicals 
 Code and resources for HASH AI in Healthcare training session 27.7.2023
 
 ## Part I: Tabular Data 
